@@ -4,10 +4,12 @@ ENGLISH - Vision The vision behind this project is to build a Nakamoto-like serv
   We wanted to build a system that surpasses the limits of Satoshi’s version-1 protocol (aka Nakamoto Consensus) yet adheres to the same principles embedded in Bitcoin.
 SPANISH - Visión La visión detrás de este proyecto es construir un servicio similar a Nakamoto que funcione con velocidades de Internet.
   Queríamos construir un sistema que supere los límites del protocolo versión 1 de Satoshi (también conocido como Consenso de Nakamoto) pero que se adhiera a los mismos principios integrados en Bitcoin.
+
 ENGLISH - Why Kaspa? First, to make Satoshi great again. PHANTOM GHOSTDAG is really a neat generalization of the Nakamoto Consensus (when k=0 PHANTOM coincides with the longest chain rule),
   it follows the same principles just with support for concurrency. It is Satoshi at its best, and the only path to fulfil His electronic cash vision.
 SPANISH - ¿Por qué Kaspa? Primero, queremos hacer grande a Satoshi otra vez. PHANTOM GHOSTDAG es un generalización del Nakamoto Consensus (cuando k=0 PHANTOM coincide con la regla de la cadena más larga),
   sigue los mismos principios solo que admite la concurrencia. Es Satoshi en su máxima expresión y el único camino para cumplir el visión del efectivo electrónico.
+
 ENGLISH - Strategy We are taking Nakamoto’s Proof-of-Work algorithm to the next level by utilizing a blockDAG, that in practice allows us to speed up the chain more than tenfold.
   Today, we are already 15 times faster than Ethereum, and with optimization we think the technology can get us to roughly 100 blocks per second.
 SPANISH - Estrategia Estamos llevando el algoritmo de prueba de trabajo de Nakamoto al siguiente nivel mediante la utilización de un blockDAG, que en la práctica nos permite acelerar la cadena más de décuplo.
